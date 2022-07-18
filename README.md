@@ -5,7 +5,7 @@
 - In this project, we are going to predict the purchasing amount of customers during Black Friday, using various features such as age, gender, marital status.
 - We will follow all the steps of a Data Science lifecycle from data collection to model deployment.
 
-> Read More about it in my [Blogpost](https://medium.com/@ktarun1681/how-do-the-customers-react-to-black-friday-sale-88864bf89d19)
+> Read More about it in my [Blogpost](https://medium.com/@priya38/how-do-the-customers-react-to-black-friday-sales-cb70a3ac4253)
 
 ## WebApp: 
 > Link: https://black-friday-sales-prediction.herokuapp.com/
